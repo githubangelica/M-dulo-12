@@ -2,7 +2,7 @@
                                      Introdução a Testes 
                                    Automatizados com JUnit
                                    
-  ![image](https://github.com/githubangelica/Modulo-12/assets/142120001/e2134136-afa5-4cc4-9093-e6b38d3d85e9)
+                                               ![image](https://github.com/githubangelica/Modulo-12/assets/142120001/e2134136-afa5-4cc4-9093-e6b38d3d85e9)
 
 
    A prática da Automação de Testes desempenha um papel crucial na garantia da qualidade,
