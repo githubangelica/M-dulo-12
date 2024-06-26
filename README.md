@@ -3,7 +3,7 @@
                                    Automatizados com JUnit
 
                                    
-                                   ![image](https://github.com/githubangelica/Modulo-12/assets/142120001/6797b209-cac2-4901-8428-343c6c99d4ab)
+  ![image](https://github.com/githubangelica/Modulo-12/assets/142120001/6797b209-cac2-4901-8428-343c6c99d4ab)
 
                                    
 
@@ -16,8 +16,8 @@ repetitivos.
 execução de testes unitários em Java. Sua integração facilitada com diversas IDEs o torna uma 
 ferramenta popular entre os desenvolvedores. A principal finalidade do JUnit é simplificar a 
 criação de casos de teste e promover sua reutilização ao longo do ciclo de desenvolvimento.
-# MeuPrimeiroTeste
-# PréePósCondições
-# AsserçõesVerdadeiraseFalsas
-# AsserçõesdeIgualdade
-# ExercícioCrieUmNovoTeste
+- MeuPrimeiroTeste
+- PréePósCondições
+- AsserçõesVerdadeiraseFalsas
+- AsserçõesdeIgualdade
+- ExercícioCrieUmNovoTeste
