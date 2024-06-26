@@ -1,9 +1,11 @@
                                           # Módulo-12
                                      Introdução a Testes 
                                    Automatizados com JUnit
-                                   
-                                               ![image](https://github.com/githubangelica/Modulo-12/assets/142120001/e2134136-afa5-4cc4-9093-e6b38d3d85e9)
 
+                                   
+                                   ![image](https://github.com/githubangelica/Modulo-12/assets/142120001/6797b209-cac2-4901-8428-343c6c99d4ab)
+
+                                   
 
    A prática da Automação de Testes desempenha um papel crucial na garantia da qualidade,
 eficácia e confiabilidade dos processos de teste de software. Por meio da utilização de
